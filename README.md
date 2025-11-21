@@ -16,7 +16,13 @@ Artifacts saved
 - MLflow run logs
 - Ray Tune tuning results
 
+PLEASE NOTE:
+Download file from Kaggle: https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
+Save in the same folder as other files as "loan_data.csv"
+
+HOW TO RUN THE WEB APP:
+Run "streamlit run app.py" in your cmd line.
+
 For questions or clarifications regarding this project, you may contact:
-Hazel Anne Mozo
-Email: hazelannemozo@gmail.com; qhaamozo@tip.edu.ph; HazelAnne.Mozo@emerson.com
-Mobile: 09178524978
+Email: qhaamozo@tip.edu.ph
+
